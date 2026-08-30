@@ -178,4 +178,4 @@ const nextConfig = {
   },
 }
 
-module.exports = withBundleAnalyzer(withPWA(withNextIntl(nextConfig)))
+module.exports = withBundleAnalyzer(withPWA(withNextIntl(nextConfig)));
